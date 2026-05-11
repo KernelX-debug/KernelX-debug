@@ -62,11 +62,11 @@
 
 <br/>
 
-  <h2 align="center"> Github Statistics 📈 </h2>
+  <h2 align="center"> Status 📈 </h2>
   
   <div align="center"> 
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
+      <img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWVtMzF5Y242b2VnOXBnYno4NTgzc2k0dnE2MXM1ZHQ5eWIydWRzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif"/>
     </a>
 </div
   
