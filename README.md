@@ -61,15 +61,14 @@
 ---
 
 <br/>
+<h2 align="center"> Status 📈 </h2>
 
-  <h2 align="center"> Status 📈 </h2>
-  
-  <div align="center"> 
-    <a href="">
-      <gif align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWVtMzF5Y242b2VnOXBnYno4NTgzc2k0dnE2MXM1ZHQ5eWIydWRzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif"/>
-    </a>
-</div
-  
+<div align="center"> 
+  <a href="">
+    <img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWVtMzF5Y242b2VnOXBnYno4NTgzc2k0dnE2MXM1ZHQ5eWIydWRzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif"/>
+  </a>
+</div>
+
 <br/>
 
 ---
