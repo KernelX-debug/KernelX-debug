@@ -61,7 +61,7 @@
 ---
 
 <br/>
-<h2 align="center"> Today's status 📈 </h2>
+<h2 align="center"> Status 📈 </h2>
 
 <div align="center">
   <img src="wtf_are_u_doing.gif"/>
