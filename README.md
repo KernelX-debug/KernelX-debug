@@ -3,9 +3,11 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm a Computer Science and Engineering Student  
+## Grey hat at night ⚠ㅤ
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 🍼 Still a student of software engineering and computer science at Pucp & Utp.
+- 📚 I’m currently learning everything about Frontend and Backend technologies 😅.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love swimming and listening to music 🏊.
 
