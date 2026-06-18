@@ -66,7 +66,7 @@
 <h2 align="center"> Status 📈 </h2>
 
 <div align="center">
-  <img src="wtf_are_u_doing.gif"/>
+  <img src="That's me.gif"/>
 </div>
 <br/>
 
