@@ -63,10 +63,10 @@
 ---
 
 <br/>
-<h2 align="center"> Status 📈 </h2>
+<h2 align="center"> Thinking.. 📈 </h2>
 
 <div align="center">
-  <img src="That's me.gif"/>
+  <img src="pfd.jpg"/>
 </div>
 <br/>
 
