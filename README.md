@@ -17,8 +17,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify]([https://media1.tenor.com/m/zbRyujBTF0AAAAAd/spotify.gif](https://media1.tenor.com/m/zbRyujBTF0AAAAAd/spotify.gif))](https://open.spotify.com/user/31osfl4l5k7ka5yafoxhmebpcbsi?si=1c07b4d301ed4798)
-
+[<img align="left" alt="bilgehangecici.site" width="100px" src="https://f4.bcbits.com/img/a0891545762_10.jpg" />][spotify]
 
 ---
 
@@ -81,4 +80,4 @@
 [website]: https://kernelx-debug.github.io/
 [instagram]: https://www.instagram.com/ghericasas_f1rst/
 [linkedin]: https://www.linkedin.com/in/angel-casas-pacheco-21b112350/
-
+[spotify]: https://open.spotify.com/user/31osfl4l5k7ka5yafoxhmebpcbsi?si=1c07b4d301ed4798
