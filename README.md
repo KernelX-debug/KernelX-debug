@@ -17,7 +17,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify]([https://tenor.com/es-US/view/spotify-gif-14822598417583380288](https://tenor.com/es-US/view/spotify-gif-14822598417583380288))](https://open.spotify.com/user/31osfl4l5k7ka5yafoxhmebpcbsi?si=1c07b4d301ed4798)
+[![Spotify]([https://media1.tenor.com/m/zbRyujBTF0AAAAAd/spotify.gif](https://media1.tenor.com/m/zbRyujBTF0AAAAAd/spotify.gif))](https://open.spotify.com/user/31osfl4l5k7ka5yafoxhmebpcbsi?si=1c07b4d301ed4798)
 
 ---
 
