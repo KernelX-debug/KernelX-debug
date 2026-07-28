@@ -17,7 +17,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify]([https://novatorem.bgstatic.vercel.app/api/spotify](https://tenor.com/es-US/view/spotify-gif-14822598417583380288))](https://open.spotify.com/user/31osfl4l5k7ka5yafoxhmebpcbsi?si=1c07b4d301ed4798)
+[![Spotify]([https://tenor.com/es-US/view/spotify-gif-14822598417583380288](https://tenor.com/es-US/view/spotify-gif-14822598417583380288))](https://open.spotify.com/user/31osfl4l5k7ka5yafoxhmebpcbsi?si=1c07b4d301ed4798)
 
 ---
 
