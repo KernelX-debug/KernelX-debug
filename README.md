@@ -13,12 +13,11 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
 
 [<img align="left" alt="bilgehangecici.site" width="100px" src="https://f4.bcbits.com/img/a0891545762_10.jpg" />][spotify]
-
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 
 
