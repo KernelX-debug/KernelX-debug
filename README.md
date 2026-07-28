@@ -29,7 +29,7 @@
 
 [<img align="left" alt="bilgehangecici.site" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />][website]
 [<img align="left" alt="bilgehangecici | LinkedIn" width="40px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://media.tenor.com/M_gkE3Kr-YMAAAAj/instagram.gif" />][instagram]
+[<img align="left" alt="bilgehangecici | Instagram" width="30px" src="https://media.tenor.com/M_gkE3Kr-YMAAAAj/instagram.gif" />][instagram]
 
 <br />
 
