@@ -19,6 +19,11 @@
 
 [<img align="left" alt="bilgehangecici.site" width="100px" src="https://f4.bcbits.com/img/a0891545762_10.jpg" />][spotify]
 
+
+
+
+
+
 ---
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
