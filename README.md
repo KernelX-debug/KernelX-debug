@@ -19,6 +19,7 @@
 
 [![Spotify]([https://media1.tenor.com/m/zbRyujBTF0AAAAAd/spotify.gif](https://media1.tenor.com/m/zbRyujBTF0AAAAAd/spotify.gif))](https://open.spotify.com/user/31osfl4l5k7ka5yafoxhmebpcbsi?si=1c07b4d301ed4798)
 
+
 ---
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
@@ -28,7 +29,7 @@
 
 [<img align="left" alt="bilgehangecici.site" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />][website]
 [<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
+[<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://media.tenor.com/WAnr9nmbv-QAAAAi/radio-cultural-gospel.gif" />][instagram]
 
 <br />
 
