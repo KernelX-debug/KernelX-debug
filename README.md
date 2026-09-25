@@ -1,90 +1,59 @@
-# Hi there, I'm Paxhecos - [KernelX-debug][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+<!-- GitHub profile README for KernelX-debug -->
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<div align="center">
+  <img width="100%" alt="Angel Casas — KernelX-debug" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:071522,50:123A5D,100:478CFF&amp;height=230&amp;section=header&amp;text=ANGEL%20CASAS&amp;fontSize=58&amp;fontColor=EEFAFF&amp;fontAlignY=38&amp;desc=aka%20KernelX-debug%20%7C%20developer%20on%20a%20side%20quest&amp;descSize=19&amp;descAlignY=61&amp;animation=fadeIn" />
 
-## I'm a Computer Science and Engineering Student  
-## Grey hat at night ⚠ㅤ
+  <a href="https://kernelx-debug.github.io/">
+    <img alt="Software Engineering and Computer Science; web development, bots, and automation; always ready for the next side quest" src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3200&amp;pause=850&amp;color=68E1FF&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=55&amp;lines=Software+Engineering+%26+Computer+Science;Web+development+%7C+Bots+%7C+Automation;Always+ready+for+the+next+side+quest" />
+  </a>
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 🍼 Still a student of software engineering and computer science at Pucp & Utp.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅.
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love swimming and listening to music 🏊.
+  <br />
 
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[<img align="left" alt="bilgehangecici.site" width="100px" src="https://f4.bcbits.com/img/a0891545762_10.jpg" />][spotify]
-
-
----
-
-
-
-
-
-
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
-### Contact with me 📝
-
-
-[<img align="left" alt="bilgehangecici.site" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />][website]
-[<img align="left" alt="bilgehangecici | LinkedIn" width="40px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" width="30px" src="https://media.tenor.com/PODuLdcrSnYAAAAj/insta-instagram.gif" />][instagram]
+  <a href="https://kernelx-debug.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-071522?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=68E1FF" /></a>
+  <a href="https://www.linkedin.com/in/angel-casas-pacheco-21b112350/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-478CFF?style=for-the-badge&amp;logo=linkedin&amp;logoColor=FFFFFF" /></a>
+  <a href="mailto:ghericasas@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-071522?style=for-the-badge&amp;logo=gmail&amp;logoColor=FF85BD" /></a>
+</div>
 
 <br />
 
----
+## 01 · About me
 
-### Languages and Tools 🛠 
+Hey, I'm **Angel Casas** — **Paxhecos** online — a Software Engineering and Computer Science student based in Lima, Peru. I enjoy building useful things and learning through every new project.
 
-![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
-![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
-![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
-![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+- 💻 **Currently building:** web experiences, Discord bots, and automation with JavaScript and Python.
+- 🧠 **Currently exploring:** frontend, backend, and security-minded development.
+- ⚡ **My approach:** stay curious, experiment often, and turn ideas into working software.
 
-<br/>
-
----
-
-<br/>
-<h2 align="center"> Thinking.. 📈 </h2>
+## 02 · Featured projects
 
 <div align="center">
-  <img src="pfd.jpg"/>
+  <a href="https://github.com/KernelX-debug/grade-calculator-pucp"><img width="400" alt="Grade Calculator PUCP repository" src="https://github-stats-extended.vercel.app/api/pin/?username=KernelX-debug&amp;repo=grade-calculator-pucp&amp;bg_color=071522&amp;title_color=68E1FF&amp;text_color=EEFAFF&amp;icon_color=FF85BD&amp;border_color=478CFF&amp;border_radius=12" /></a>
+  <a href="https://github.com/KernelX-debug/Discord-Bot_Lucario_Moonaniphp"><img width="400" alt="Lucario Moonani Discord Bot repository" src="https://github-stats-extended.vercel.app/api/pin/?username=KernelX-debug&amp;repo=Discord-Bot_Lucario_Moonaniphp&amp;bg_color=071522&amp;title_color=68E1FF&amp;text_color=EEFAFF&amp;icon_color=FF85BD&amp;border_color=478CFF&amp;border_radius=12" /></a>
 </div>
-<br/>
 
----
+**More from my workspace:** [Discord bot with Groq](https://github.com/KernelX-debug/Bot-Tatsumaki-Discord) · [RENIEC API learning project](https://github.com/KernelX-debug/Reniec-database-API-query) · [All repositories →](https://github.com/KernelX-debug?tab=repositories)
 
- ### ⭐️ From [KernelX-debug](https://github.com/KernelX-debug) ### 
- 
----
+## 03 · Stack & tools
 
+<div align="center">
+  <img alt="HTML, CSS, JavaScript, React, Node.js, Python, Java, C, Sass, Bootstrap, Firebase, Git, GitHub, and VS Code" src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,py,java,c,sass,bootstrap,firebase,git,github,vscode&amp;theme=dark&amp;perline=7" />
+</div>
 
-[website]: https://kernelx-debug.github.io/
-[instagram]: https://www.instagram.com/ghericasas_f1rst/
-[linkedin]: https://www.linkedin.com/in/angel-casas-pacheco-21b112350/
-[spotify]: https://open.spotify.com/user/31osfl4l5k7ka5yafoxhmebpcbsi?si=1c07b4d301ed4798
+## 04 · GitHub pulse
+
+<div align="center">
+  <img width="400" alt="Angel's GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=KernelX-debug&amp;show_icons=true&amp;bg_color=071522&amp;title_color=68E1FF&amp;text_color=EEFAFF&amp;icon_color=FF85BD&amp;border_color=478CFF&amp;border_radius=12" />
+  <img width="400" alt="Languages used in Angel's public repositories" src="https://github-stats-extended.vercel.app/api/top-langs?username=KernelX-debug&amp;layout=compact&amp;langs_count=6&amp;bg_color=071522&amp;title_color=68E1FF&amp;text_color=EEFAFF&amp;border_color=478CFF&amp;border_radius=12" />
+</div>
+
+<br />
+
+<details>
+  <summary><b>🎮 Side quests beyond the editor</b></summary>
+  <p>Pokémon GO, anime, hard rock and metal, music discovery, and swimming. Find me on <a href="https://open.spotify.com/user/31osfl4l5k7ka5yafoxhmebpcbsi">Spotify</a> when the code takes a break.</p>
+</details>
+
+<div align="center">
+  <h3>Thanks for visiting my save file. The next quest is already in progress. ✦</h3>
+  <img width="100%" alt="Blue wave footer" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:071522,50:123A5D,100:478CFF&amp;height=110&amp;section=footer" />
+</div>
