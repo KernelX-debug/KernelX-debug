@@ -7,7 +7,7 @@
 
   <br />
 
-  <a href="https://kernelx-debug.github.io/"><img alt="Portafolio" src="https://img.shields.io/badge/Portfolio-071522?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=68E1FF" /></a>
+  <a href="https://kernelx-debug.github.io/"><img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-071522?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=68E1FF" /></a>
   <a href="https://www.linkedin.com/in/angel-casas-pacheco-21b112350/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-478CFF?style=for-the-badge&amp;logo=linkedin&amp;logoColor=FFFFFF" /></a>
   <a href="mailto:ghericasas@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-071522?style=for-the-badge&amp;logo=gmail&amp;logoColor=FF85BD" /></a>
   <a href="https://instagram.com/ghericasas_f1rst"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-071522?style=for-the-badge&amp;logo=instagram&amp;logoColor=FF85BD" /></a>
