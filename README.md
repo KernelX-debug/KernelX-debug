@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" alt="Angel Casas — KernelX-debug" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:071522,50:123A5D,100:478CFF&amp;height=230&amp;section=header&amp;text=ANGEL%20CASAS&amp;fontSize=58&amp;fontColor=EEFAFF&amp;fontAlignY=38&amp;desc=aka%20KernelX-debug%20%7C%20developer%20on%20a%20side%20quest&amp;descSize=19&amp;descAlignY=61&amp;animation=fadeIn" />
+  <img width="100%" alt="ANGEL CASAS — aka KernelX-debug | Just a tech guy" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:071522,50:123A5D,100:478CFF&amp;height=230&amp;section=header&amp;text=ANGEL%20CASAS&amp;fontSize=58&amp;fontColor=EEFAFF&amp;fontAlignY=38&amp;desc=aka%20KernelX-debug%20%7C%20Just%20a%20tech%20guy&amp;descSize=19&amp;descAlignY=61&amp;animation=none" />
 
   <a href="https://kernelx-debug.github.io/">
     <img alt="Software Engineering and Computer Science; web development, bots, and automation; always ready for the next side quest" src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3200&amp;pause=850&amp;color=68E1FF&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=55&amp;lines=Software+Engineering+%26+Computer+Science;Web+development+%7C+Bots+%7C+Automation;Always+ready+for+the+next+side+quest" />
@@ -76,10 +76,22 @@ Hey, I'm **Angel Casas** — **Paxhecos** online — a Software Engineering and 
 
 ## 04 · Beyond tech guy
 
-<details>
-  <summary><b>🎮 Interests &amp; inspiration</b></summary>
-  <p>Pokémon, anime, music, and swimming. Find me on <a href="https://open.spotify.com/user/31osfl4l5k7ka5yafoxhmebpcbsi">Spotify</a> when the code takes a break.</p>
-</details>
+<div align="center">
+  <img width="100%" alt="Offline mode on: side quests behind the code" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:071522,50:123A5D,100:478CFF&amp;height=110&amp;text=OFFLINE%20MODE%20ON&amp;fontSize=30&amp;fontColor=EEFAFF&amp;fontAlignY=36&amp;desc=Side%20quests%20behind%20the%20code&amp;descSize=16&amp;descAlignY=71&amp;animation=twinkling" />
+
+  <br />
+  <img alt="Pokémon GO" src="https://img.shields.io/badge/Pok%C3%A9mon%20GO-355AA8?style=for-the-badge" />
+  <img alt="Anime" src="https://img.shields.io/badge/Anime-5E57B5?style=for-the-badge" />
+  <br />
+  <img alt="Music" src="https://img.shields.io/badge/Music-9A3F65?style=for-the-badge" />
+  <img alt="Swimming" src="https://img.shields.io/badge/Swimming-087391?style=for-the-badge" />
+
+  <br /><br />
+  <a href="https://kernelx-debug.github.io/"><img width="145" alt="Lucario illustration featured on Angel's portfolio" src="https://raw.githubusercontent.com/KernelX-debug/KernelX-debug.github.io/main/800px-Lucario.png" /></a>
+  <h3>Life outside the terminal</h3>
+  <p>When I'm away from code, I'm usually exploring Pokémon GO, watching anime, or finding the next song to play on repeat. Swimming helps me reset before the next idea.</p>
+  <a href="https://open.spotify.com/user/31osfl4l5k7ka5yafoxhmebpcbsi"><img alt="Explore my Spotify" src="https://img.shields.io/badge/Find%20me%20on%20Spotify-1DB954?style=for-the-badge&amp;logo=spotify&amp;logoColor=FFFFFF" /></a>
+</div>
 
 <div align="center">
   <h3>Thanks for visiting my save file. The next quest is already in progress. ✦</h3>
