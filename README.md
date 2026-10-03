@@ -81,8 +81,8 @@ Hey, I'm **Angel** — **Paxhecos** online — a Software Engineering and Comput
   <img width="100%" alt="The other side of the coin: This is what my life is all about." src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:071522,50:123A5D,100:478CFF&amp;height=110&amp;text=THE%20OTHER%20SIDE%20OF%20THE%20COIN&amp;fontSize=30&amp;fontColor=EEFAFF&amp;fontAlignY=36&amp;desc=This%20is%20what%20my%20life%20is%20all%20about&amp;descSize=16&amp;descAlignY=71&amp;animation=twinkling" />
 
   <br />
-  <img alt="Pokémon GO" src="https://img.shields.io/badge/Pok%C3%A9mon%20GO-355AA8?style=for-the-badge" />
-  <img alt="Anime" src="https://img.shields.io/badge/Anime-5E57B5?style=for-the-badge" />
+  <img alt="Pokémon GO" src="https://img.shields.io/badge/Pok%C3%A9mon-355AA8?style=for-the-badge" />
+  <img alt="Anime" src="https://img.shields.io/badge/Anime & Movies-5E57B5?style=for-the-badge" />
   <br />
   <img alt="Music" src="https://img.shields.io/badge/Music-9A3F65?style=for-the-badge" />
   <img alt="Swimming" src="https://img.shields.io/badge/Swimming-087391?style=for-the-badge" />
