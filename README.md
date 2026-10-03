@@ -13,7 +13,7 @@
   <a href="https://instagram.com/ghericasas_f1rst"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-071522?style=for-the-badge&amp;logo=instagram&amp;logoColor=FF85BD" /></a>
 
   <br /><br />
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=KernelX-debug&amp;label=Profile%20views&amp;color=478CFF&amp;style=flat-square" />
+  <img alt="Profile views" src="https://hits.sh/github.com/KernelX-debug/KernelX-debug.svg?style=flat-square&amp;label=Profile%20views&amp;color=478CFF&amp;labelColor=071522" />
 </div>
 
 <br />
