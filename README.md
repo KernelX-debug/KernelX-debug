@@ -24,7 +24,7 @@
 
 Hey, I'm **Angel** — **Paxhecos** online — a Software Engineering and Computer Science student based in Lima, Peru. I enjoy building useful things and learning through every new project.
 
-- 💻 **Currently building:** web experiences, Discord bots, and automation with JavaScript and Python.
+- 💻 **Currently building:** web experiences, Discord bots, and automation with JavaScript, Python and C.
 - 🧠 **Currently exploring:** frontend, backend, and security-minded development.
 - ⚡ **My approach:** stay curious, experiment often, and turn ideas into working software.
 - 🍼 **Still a CS student** at PUCP & UTP. My goal is **UNI**
